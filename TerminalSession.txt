@@ -5,7 +5,7 @@
 LinuxExercise  README.md  TerminalSession.txt
  cd LinuxExercise
  touch myfile.txt
- echo "this is my new file" >> myfile.txt
+ echo this is my new file >> myfile.txt
  cat myfile.txt
 this is my new file
  cp myfile.txt myfile_copy.txt
@@ -17,8 +17,8 @@ myfile_copy.txt  myfile.txt
 command-line-basics-assignment-Haydenchung03  myfile2.txt
 jdt.ls-java-project               _test_runner.py
  cd ..
- rm -r LinuxExercise/myfile.txt
- rm -r LinuxExercise
+ rm  LinuxExercise/myfile.txt
+ rm  LinuxExercise
  ls ~
 command-line-basics-assignment-Haydenchung03  myfile2.txt
 jdt.ls-java-project               _test_runner.py
