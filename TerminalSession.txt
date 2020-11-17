@@ -5,6 +5,8 @@
 LinuxExercise  README.md  TerminalSession.txt
  cd LinuxExercise
  touch myfile.txt
+ ls
+myfile.txt
  echo this is my new file >> myfile.txt
  cat myfile.txt
 this is my new file
