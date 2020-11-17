@@ -20,7 +20,7 @@ command-line-basics-assignment-Haydenchung03  myfile2.txt
 jdt.ls-java-project               _test_runner.py
  cd ..
  rm  LinuxExercise/myfile.txt
- rm  LinuxExercise
+ rm -r LinuxExercise
  ls ~
 command-line-basics-assignment-Haydenchung03  myfile2.txt
 jdt.ls-java-project               _test_runner.py
